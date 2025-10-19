@@ -472,5 +472,19 @@
   "Username is required": "اسم المستخدم مطلوب",
   "Password is required": "كلمة المرور مطلوبة",
   "Forgot Password?": "هل نسيت كلمة المرور؟",
-  "Sessions": "المحادثات"
+  "Sessions": "المحادثات",
+  "session-no": "رقم الجلسة",
+  "client-id": "معرف العميل",
+  "client-name": "اسم العميل",
+  "session-name": "اسم الجلسة",
+  "session-state": "حالة الجلسة",
+  "state-description": "وصف الحالة",
+  "session-type-id": "معرف نوع الجلسة",
+  "type-description": "وصف النوع",
+  "closed-by-agent-id": "معرف الوكيل الذي أغلق الجلسة",
+  "closed-by-name": "اسم من أغلق الجلسة",
+  "closed-date": "تاريخ الإغلاق",
+  "assigned-date": "تاريخ التعيين",
+  "assigned-to-agent-id": "معرف الوكيل المعين",
+  "assigned-name": "اسم المعين"
 }

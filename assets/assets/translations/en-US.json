@@ -475,5 +475,19 @@
   "Username is required": "Username is required",
   "Password is required": "Password is required",
   "Forgot Password?": "Forgot Password?",
-  "Sessions": "Sessions"
+  "Sessions": "Sessions",
+  "session-no": "Session No",
+  "client-id": "Client ID",
+  "client-name": "Client Name",
+  "session-name": "Session Name",
+  "session-state": "Session State",
+  "state-description": "State Description",
+  "session-type-id": "Session Type ID",
+  "type-description": "Type Description",
+  "closed-by-agent-id": "Closed By Agent ID",
+  "closed-by-name": "Closed By Name",
+  "closed-date": "Closed Date",
+  "assigned-date": "Assigned Date",
+  "assigned-to-agent-id": "Assigned To Agent ID",
+  "assigned-name": "Assigned Name"
 }
